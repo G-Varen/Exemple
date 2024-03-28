@@ -1,0 +1,21 @@
+span{
+    color: red;
+}
+
+p{
+    text-indent: 50px;
+    text-align: justify;
+}
+
+h2{
+    text-decoration: underline;
+}
+
+h1{
+    text-align: center;
+    text-decoration: underline wavy;
+}
+
+footer{
+    text-align: center;
+}

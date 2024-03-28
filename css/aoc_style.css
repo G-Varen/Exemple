@@ -1,0 +1,31 @@
+#date{
+    text-align: center;
+}
+
+#litterature{
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+h1{
+    font-size: 2em;
+}
+
+#nom{
+    font-weight: bold;
+}
+
+article{
+    font-family: poppins;
+}
+
+p span{
+    font-family: none;
+    font-weight: 2em;
+    font-style: italic;
+    line-height: 25px;
+}
+
+#journal{
+    font-size: 0.9em;
+}
